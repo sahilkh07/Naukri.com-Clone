@@ -1,0 +1,63 @@
+.top123{
+    display: flex;
+    justify-content: center;
+    margin-right:10px ;
+    gap: 10px;
+    
+
+}
+.top123--secondCard{
+    border: 1px solid rgba(128, 128, 128, 0.4);
+    border-top-left-radius: 10px;
+    border-bottom-right-radius:10px ;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.top123--secondCard__items{
+    display: flex;
+
+
+
+   
+  
+}
+.top123--secondCard__itemsFirst{
+    display: flex;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius:10px ;
+    gap: 10px;
+    margin: 10px 5px;
+    border: 1px solid rgba(128, 128, 128, 0.4);
+    padding: 15px;
+}
+
+
+
+.top123--secondCard__itemsSecond{
+    display: flex;
+    
+    
+    
+    border-top-left-radius: 10px;
+    border-bottom-right-radius:10px ;
+    gap: 10px;
+    margin: 10px 5px;
+    border: 1px solid rgba(128, 128, 128, 0.4);
+    padding: 15px;
+}
+.top123--thirdCard{
+    margin: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-top-left-radius: 10px;
+    
+    border-bottom-right-radius:10px ;
+    border: 1px solid rgba(128, 128, 128, 0.4);
+}
+.ambitionBox{
+    
+    background-color: #826cce;
+    font-size: 10px;
+    width: 80px;
+   
+}

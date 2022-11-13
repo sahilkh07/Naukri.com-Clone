@@ -1,0 +1,25 @@
+.logButton{
+    /* style={{borderRadius:'20px',border:"2px solid 457eff",padding:'4px 15px'}} */
+    border-radius: 20px;
+    border: 1px solid #457eff;
+    padding:4px 15px;
+    color: #457eff;
+    font-weight: 600;
+}
+.logButton:hover{
+background-color: rgba(255, 255, 255, 0.632)(255, 255, 255, 0.632);
+}
+.signButton{
+    border-radius: 20px;
+    border: 1px solid #ff7555; 
+    background-color:#ff7555;
+    padding:  4px 28px;
+    color: white;
+    margin-right: 14px;
+    font-weight: 600;
+
+}
+.mainNav{
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}

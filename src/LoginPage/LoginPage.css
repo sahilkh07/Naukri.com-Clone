@@ -1,0 +1,50 @@
+.loginBox909{
+    display: flex;
+    justify-content: center;
+}
+.loginBox909>:nth-child(1){
+    font-size: 14px;
+    line-height: 2.3;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 30px 50px;
+    height: 400px;
+    margin-top: 100px;
+}
+.loginBox909>:nth-child(1) h1{
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.loginButton122{
+   padding: 4px;
+   width: 160px;
+   color:  #4a90e2;
+   margin-top: 10px;
+   text-align: center;
+   border: 1px solid; 
+   
+}
+.logButt123{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+/* .logButt123{
+    padding: 4px;
+   width: 230px;
+   background-color:  #4a90e2;
+   color: white;
+   margin-top: 10px;
+   text-align: center;
+   border: 1px solid; 
+
+} */
+
+
+
+.loginBox909>:nth-child(2){
+    padding: 20px 40px;
+    margin-top: 80px;
+    z-index: 2000;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

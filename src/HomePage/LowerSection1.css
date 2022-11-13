@@ -1,0 +1,38 @@
+.lowerSection1{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    width: 1100px;
+    margin-left: 100px;
+    border: 1px solid rgba(128, 128, 128, 0.4);
+    border-top-left-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-bottom-right-radius:10px ;
+}
+.lowerSection1--secondDiv{
+    margin: 20px 0px 5px 0px;
+}
+
+.lowerSection1--secondDiv__elements{
+    display: flex;
+    gap: 10px;
+    margin: 4px;
+
+}
+.lowerSection1--secondDiv__elements>div{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.4);
+}
+.fastforward{
+    background-color: #826cce;
+    font-size: 10px;
+    width: 100px;
+    margin-left: 30px;
+
+}
+.lowerSection1--firstDiv{
+    margin: 16px 0px;
+   
+}

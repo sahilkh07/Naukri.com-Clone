@@ -1,0 +1,6 @@
+.footerItem{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+
+line-height: 2.0;
+}

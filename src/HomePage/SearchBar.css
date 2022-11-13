@@ -1,0 +1,36 @@
+
+.searchInputs{
+    margin-top: 30px;
+    display:flex;
+    justify-content: center;
+    
+}
+.search input{
+    background-color: white;
+    box-shadow:rgba(100, 100, 111, 0.2) 0px 0px 18px 0px;;
+    border-top-right-radius: 0px;
+    
+   
+    border-bottom-right-radius:0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 18px;
+    padding: 25px;
+    height: 40px;
+    width: 700px;
+
+}
+
+
+input:focus{
+    outline: none;
+
+}
+.searchIcon svg{
+    font-size: 35px;
+}
+.but{
+        
+    border: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

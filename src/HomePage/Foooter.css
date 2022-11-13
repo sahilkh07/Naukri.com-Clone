@@ -1,0 +1,21 @@
+.footer444{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.footer444--thirdBox__item{
+    border: 1px solid rgba(128, 128, 128, 0.4);
+    padding: 10px;
+    margin-top: 20px;
+    line-height: 1.7;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius:10px ;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.footer444--firstBox{
+    display: grid;
+
+    align-content: space-around;
+    
+}

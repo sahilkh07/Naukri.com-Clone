@@ -1,0 +1,79 @@
+[
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/2436002.gif",
+        "title":"Xoriant",
+        "rating":"4.3",
+        "totalRate":"981 reviews",
+        "description":"software development"
+
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/44512.gif",
+        "title":"ICICI Bank",
+        "rating":"4.0",
+        "totalRate":"35K+ reviews",
+        "description":"Leading Private sector bank in India"
+    },{
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/21746.gif",
+        "title":"FIS",
+        "rating":"4.1",
+        "totalRate":"3.6K+ reviews",
+        "description":"FIS is hiring 3 to 10 yrs exp C++"
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/4264.gif",
+        "title":"WNS Holding",
+        "rating":"3.7",
+        "totalRate":"7K+ reviews",
+        "description":"Leading business process.."
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/126896.gif",
+        "title":"Airtel",
+        "rating":"4.1",
+        "totalRate":"12.9K+ reviews",
+        "description":"Leading Global Telecom Company"
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/419316.gif",
+        "title":"Senycron",
+        "rating":"4.2",
+        "totalRate":"1.5K+ rating",
+        "description":"Information Technology Company"
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/42932.gif",
+        "title":"Genpact",
+        "rating":"4.0",
+        "totalRate":"21.1K+ reviews",
+        "description":"Global professional services firm"
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/1288.gif",
+        "title":"Capgemini",
+        "rating":"3.9",
+        "totalRate":"24.1K+ reviews",
+        "description":"Global leader in technology services"
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/315118.gif",
+        "title":"Datamatics",
+        "rating":"3.7",
+        "totalRate":"1.7K+ reviews",
+        "description":"Global Digital Solutions.."
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/4156.gif",
+        "title":"Cognizant",
+        "rating":"3.9",
+        "totalRate":"29.7K+ reviews",
+        "description":"Leading ITeS company with global"
+    },
+    {
+        "pic":"https://img.naukimg.com/logo_images/groups/v2/4577755.gif",
+        "title":"Accolite Digital",
+        "rating":"3.9",
+        "totalRate":"317 reviews",
+        "description":"Digital transformation"
+    }
+]

@@ -1,0 +1,19 @@
+.ListBox{
+    border: 1px dotted gray;
+    border-radius: 20px;
+    width: 270px;
+    padding:50px 30px;
+    line-height: 1.7;
+    margin-top: 100px;
+    position: sticky;
+    margin-left: 40px;
+}
+.imgBox{
+    z-index: 40;
+    position: relative;
+top: 150px;
+left: 120px;
+    
+
+
+}
